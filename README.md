@@ -16,6 +16,7 @@
 ### Contáctame 📫
 - Mi email personal: [MiEmail](mailto:adriruisan578@gmail.com)
 - Mi Github: [Github](https://github.com/AdrianRuiperez/)
+[![My Skills](https://skillicons.dev/icons?i=gmail,github)](https://skillicons.dev)
 ---
 > Aristóteles: "*Las raíces de la educación son amargas, pero la fruta es dulce🌱*"
 
