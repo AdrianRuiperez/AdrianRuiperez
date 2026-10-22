@@ -7,7 +7,7 @@
 4. 
 # Habilidades/Tecnologias
 |Habilidades/Tecno|Nivel |
-|:---------------:|:---: |
+|:---------------|:---|
 |Java             |Bajo 🔴|
 |html y css       |Medio 🟡|
 |Word/excel/PowerP|Medio 🟡|
