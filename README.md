@@ -11,9 +11,9 @@
 |Word/excel/PowerP📍|Medio 🟡|
 |JavaScript📂       |Bajo 🔴|
 ### Contáctame 📫
-- Mi email personal: 
+- Mi email personal: mailto:adriruisan578@gmail.com
 ---
-||| Aristóteles: "Las raíces de la educación son amargas, pero la fruta es dulce🌱"
+*Aristóteles:* "Las raíces de la educación son amargas, pero la fruta es dulce🌱"
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
