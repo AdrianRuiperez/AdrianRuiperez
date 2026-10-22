@@ -6,12 +6,12 @@
 3. Estudio/s ya realizado: Ciclo formativo de grado medio de SMR 📒
 4. 
 # Habilidades/Tecnologias
-|Habilidades/Tecno|Nivel |
+|Habilidades/Tecno🖥️|Nivel📈|
 |:---------------|:---|
-|Java             |Bajo 🔴|
-|html y css       |Medio 🟡|
-|Word/excel/PowerP|Medio 🟡|
-|JavaScript       |Bajo 🔴|
+|Java🖱️            |Bajo 🔴|
+|html y css💡     |Medio 🟡|
+|Word/excel/PowerP📍|Medio 🟡|
+|JavaScript📂       |Bajo 🔴|
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
