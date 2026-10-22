@@ -2,7 +2,7 @@
 ## Sobre mí 🔭
 1. Edad: 18 años ✨
 2. Estudio actual: Actualmente estudiando **1º DAM** 📚
-3. Estudio/s ya realizado: Ciclo formativo de grado medio de SMR 📒
+3. Estudio/s ya realizado: Ciclo formativo de grado medio de **SMR**📒
 # Habilidades/Tecnologías ✨
 |Habilidades/Tecno🖥️|Nivel📈|
 |:---------------|:---|
@@ -13,7 +13,7 @@
 ### Contáctame 📫
 - Mi email personal: mailto:adriruisan578@gmail.com
 ---
-*Aristóteles:* "Las raíces de la educación son amargas, pero la fruta es dulce🌱"
+> Aristóteles: "*Las raíces de la educación son amargas, pero la fruta es dulce🌱*"
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
