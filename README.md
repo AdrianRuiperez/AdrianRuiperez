@@ -1,19 +1,19 @@
 # Hola soy Adrián Ruipérez👋
-## Sobre mí
+## Sobre mí 🔭
 1. Edad: 18 años ✨
 2. Estudio actual: Actualmente estudiando **1º DAM** 📚
 3. Estudio/s ya realizado: Ciclo formativo de grado medio de SMR 📒
-# Habilidades/Tecnologias
+# Habilidades/Tecnologías ✨
 |Habilidades/Tecno🖥️|Nivel📈|
 |:---------------|:---|
 |Java🖱️            |Bajo 🔴|
 |html y css💡     |Medio 🟡|
 |Word/excel/PowerP📍|Medio 🟡|
 |JavaScript📂       |Bajo 🔴|
-### Contáctame
+### Contáctame 📫
 - Mi email personal: 
 ---
-Aristóteles: "Las raíces de la educación son amargas, pero la fruta es dulce"
+||| Aristóteles: "Las raíces de la educación son amargas, pero la fruta es dulce🌱"
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
