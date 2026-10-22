@@ -10,7 +10,8 @@
 |html y css💡          |Medio 🟡|
 |Word/excel/PowerP📍   |Medio 🟡|
 |JavaScript📂          |Bajo 🔴 |
-[![My Skills](https://skillicons.dev/icons?i=css,html,java,word,excel,JaavScript)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,JavaScript)](https://skillicons.dev)
 ### Contáctame 📫
 - Mi email personal: [MiEmail](mailto:adriruisan578@gmail.com)
 - Mi Github: [Github](https://github.com/AdrianRuiperez/)
