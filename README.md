@@ -4,7 +4,14 @@
 1. Edad: 18 años ✨
 2. Estudio actual: Actualmente estudiando 1º DAM 📚
 3. Estudio/s ya realizado: Ciclo formativo de grado medio de SMR 📒
-4.
+4. 
+# Habilidades/Tecnologias
+|Habilidades/Tecno|Nivel|
+|:---------------:|:---:|
+|Java             |Bajo |
+|html y css       |Medio|
+|Word/excel/PowerP|Medio|
+|JavaScript       |Bajo |
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
