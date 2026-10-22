@@ -4,14 +4,16 @@
 2. Estudio actual: Actualmente estudiando **1º DAM** 📚
 3. Estudio/s ya realizado: Ciclo formativo de grado medio de **SMR**📒
 # Habilidades/Tecnologías ✨
-|Habilidades/Tecno🖥️|Nivel📈|
-|:---------------|:---|
-|Java🖱️            |Bajo 🔴|
-|html y css💡     |Medio 🟡|
-|Word/excel/PowerP📍|Medio 🟡|
-|JavaScript📂       |Bajo 🔴|
+|Habilidades/Tecno🖥️   |Nivel📈 |
+|:---------------------|:--------|
+|Java🖱️                |Bajo 🔴 |
+|html y css💡          |Medio 🟡|
+|Word/excel/PowerP📍   |Medio 🟡|
+|JavaScript📂          |Bajo 🔴 |
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,word,excel,JaavScript)](https://skillicons.dev)
 ### Contáctame 📫
 - Mi email personal: [MiEmail](mailto:adriruisan578@gmail.com)
+- Mi Github: [Github](https://github.com/AdrianRuiperez/)
 ---
 > Aristóteles: "*Las raíces de la educación son amargas, pero la fruta es dulce🌱*"
 
