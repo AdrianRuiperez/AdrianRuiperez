@@ -11,7 +11,7 @@
 |Word/excel/PowerP📍|Medio 🟡|
 |JavaScript📂       |Bajo 🔴|
 ### Contáctame 📫
-- Mi email personal: mailto:adriruisan578@gmail.com
+- Mi email personal: [MiEmail](mailto:adriruisan578@gmail.com)
 ---
 > Aristóteles: "*Las raíces de la educación son amargas, pero la fruta es dulce🌱*"
 
