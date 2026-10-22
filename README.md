@@ -1,9 +1,9 @@
 # Hola soy Adrián Ruipérez👋
---
-##Sobre mí
-1.Edad: 18 años
-2.Estudio actual: Actualmente estudiando 1º DAM 
-3.Estudio/s ya realizado: Ciclo formativo de grado medio de SMR
+---
+## Sobre mí
+1. Edad: 18 años
+2. Estudio actual: Actualmente estudiando 1º DAM 
+3. Estudio/s ya realizado: Ciclo formativo de grado medio de SMR
 4.
 
 <!--
