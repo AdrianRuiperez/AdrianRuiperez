@@ -8,7 +8,7 @@
 |:---------------------   |:--------|
 |Java🖱️                   |Bajo 🔴 |
 |html y css💡             |Medio 🟡|
-|Word/excel/PowerP📍      |Medio 🟢|
+|Word/excel/PowerP📍      |Alto 🟢|
 |JavaScript📂             |Bajo 🔴 |
 |Php👾                    |Medio 🟡|
 
