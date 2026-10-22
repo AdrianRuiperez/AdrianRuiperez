@@ -1,6 +1,10 @@
-# Hola soy Adrián Ruiperez 👋
-
-
+# Hola soy Adrián Ruipérez👋
+--
+##Sobre mí
+1.Edad: 18 años
+2.Estudio actual: Actualmente estudiando 1º DAM 
+3.Estudio/s ya realizado: Ciclo formativo de grado medio de SMR
+4.
 
 <!--
 **AdrianRuiperez/AdrianRuiperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
